@@ -4,8 +4,7 @@
 http://mdecourse.github.io/2018fall/
 
 網站: https://mdecp2018.github.io/site-s40523925/content/index.html
-     https://mdecp2018.github.io/site-s40523925/content/Week1.html
-
+     
 分組示範倉儲: https://github.com/scrum-1/scrum-1.github.io
 
 設定步驟: https://github.com/scrum-1/scrum-1.github.io/wiki
